@@ -1,0 +1,6 @@
+2023-02-21 01:41:17,664 - Model - INFO - The number of training data is: 7687
+2023-02-21 01:41:17,664 - Model - INFO - The number of test data is: 7695
+2023-02-21 01:41:17,887 - Model - INFO - The number of training data is: 7687
+2023-02-21 01:41:17,887 - Model - INFO - The number of test data is: 7695
+2023-02-21 01:41:18,839 - Model - INFO - No existing model, starting training from scratch...
+2023-02-21 01:41:18,839 - Model - INFO - No existing model, starting training from scratch...
